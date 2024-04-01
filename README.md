@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Annyneuro
 - 👀 I’m interested in neuroscience and neurotechnology
-- 🌱 I’m currently learning python
-
+- 🌱 I'm currently learning Python and the functionality of git and github
 
 <!---
 Annyneuro/Annyneuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
